@@ -8,7 +8,7 @@
   2019-2022\
   **Sourth Ural State University** - Russian Federation
 ### ⚡ Technical stack
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Languages**: Python(major), C++\
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Languages**: Python(major), C++, SQL, Unix/Linux shell\
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Databases**: PostgreSQL, Redis\
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Web Frameworks**: aiohttp, sanic\
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Python DB Frameworks**: sqlalchemy, alembic, aiopg, asyncpg\
