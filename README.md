@@ -12,7 +12,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Databases**: PostgreSQL, Redis\
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Web Frameworks**: aiohttp, sanic\
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Python DB Frameworks**: sqlalchemy, alembic, aiopg, asyncpg\
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Testing**: pytest, yandex-tank
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Testing**: pytest, yandex-tank\
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Web Servers**: Nginx\
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Infrastructure**: Docker, Docker compose, Github/Gitlab, Gitlab CI
 </details>
