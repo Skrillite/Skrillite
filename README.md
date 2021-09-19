@@ -6,8 +6,13 @@
 ### 🎓 Education
 - **Software engineering**\
   2019-2022\
-  **Sourth Ural State University** - Russian Federation, Chelyabinsk
-  
+  **Sourth Ural State University** - Russian Federation
+### ⚡ Technical stack
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Languages**: Python(major), C++\
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Databases**: PostgreSQL, Redis\
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Web Frameworks**: aiohttp, sanic\
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Python DB tools**: sqlalchemy, alembic, aiopg, asyncpg\
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Infrastructure**: Docker, Github/Gitlab, Gitlab CI/CD
 </details>
 
 <p align = 'center'>
