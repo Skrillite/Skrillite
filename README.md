@@ -5,7 +5,7 @@
   
 ### 🎓 Education
 - **Software engineering**\
-  2019-2022\
+  2019-2023\
   **Sourth Ural State University** - Russian Federation
 ### ⚡ Technical stack
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Languages**: Python(major), C++, SQL, Unix/Linux shell\
